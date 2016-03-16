@@ -1,4 +1,5 @@
 # helplessGoogle
+### Looking for contributions so make a PR! \#opensauce
 A list of all the search words i've seen asked to google without thinking
 
 1. [passport docs](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=passport%20docs) - Matt (14.03.16)
