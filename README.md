@@ -7,3 +7,4 @@ A list of all the search words i've seen asked to google without thinking
 3. [tape shot](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=tape%20shot) - Matt (15.03.16)
 4. [-p flag](https://www.google.co.uk/search?q=-p+flag&oq=-p+flag&aqs=chrome..69i57j0l5.3171j0j7&sourceid=chrome&ie=UTF-8) - Justen (15.03.16)
 5. [operator fail](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=operator%20fail) - Matt (16.03.16)
+6. [map](https://www.google.co.uk/search?q=map&oq=map&aqs=chrome..69i57j69i60j0j69i60l2j0.1256j0j7&sourceid=chrome&ie=UTF-8) - Matt (26.03.16)
