@@ -18,3 +18,5 @@ A list of all the search words i've seen asked to google without thinking
 13. [document client](https://www.ecosia.org/search?q=document+client) - Justen (30.03.17)
 14. [some](https://www.ecosia.org/search?q=some) - Matt (08.05.17)
 15. [master key](https://www.ecosia.org/search?q=master+key) - Pascale (02.09.17)
+16. [nyc](https://www.ecosia.org/search?q=nyc) - Eoin (27.09.17)
+17. [tape](https://www.ecosia.org/search?q=tape) - Eoin (27.09.17)
