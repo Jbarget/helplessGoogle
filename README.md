@@ -22,3 +22,4 @@ A list of all the search words i've seen asked to google without thinking
 17. [tape](https://www.ecosia.org/search?q=tape) - Eoin (27.09.17)
 18. [cloud formations](https://www.ecosia.org/search?q=cloud+formations) - Eoin (28.09.17)
 19. [length 2](https://www.ecosia.org/sesearch?q=length+2) - Matt (27.11.17)
+20. [masonry bricks](https://www.google.co.uk/search?client=opera&q=masonry+bricks&sourceid=opera&ie=UTF-8&oe=UTF-8) - Mantas (03.04.18)
