@@ -26,3 +26,4 @@ A list of all the search words i've seen asked to google without thinking
 21. [nested tables](https://www.ecosia.org/search?q=nested+tables) - Mantas (08.05.18)
 22. [elm](https://www.ecosia.org/search?q=elm) - Mantagen (18.05.18)
 23. [transpil](https://www.ecosia.org/search?q=transpil) - Mantagen (18.05.18)
+24. [boom](https://www.ecosia.org/search?q=boom) - Mantagen (11.06.18)
